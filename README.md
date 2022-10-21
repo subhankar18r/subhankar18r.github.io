@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Subhankar Rajbanshi
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning mern stack development
+- 💞️ I’m looking to collaborate on replit
