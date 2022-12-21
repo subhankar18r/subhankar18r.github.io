@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Subhankar Rajbanshi
-- 👀 I’m interested in data science
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning mern stack development
-- 💞️ I’m looking to collaborate on replit
+- 💞️ I’m looking to collaborate on anykind of open source project
