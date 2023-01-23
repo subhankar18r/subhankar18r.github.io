@@ -39,7 +39,7 @@
         <img height="40" width="auto" src="https://facebook.com/images/fb_icon_325x325.png" alt="facebook">
     </a>
     <a href="https://linkedin.com/in/subhankar18r" target="_blank">
-    <img height="40" width="auto" src="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="linkedin">
+     <img height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" />
     </a>
     <a href="https://twitter.com/subhankar18r" target="_blank" style="color:#1D9BF0 ;" >
     <img height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/150px-Twitter-logo.svg.png" alt="twitter" >
