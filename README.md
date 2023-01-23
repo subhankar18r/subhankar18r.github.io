@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Subhankar Rajbanshi and I'm a Full Stack Developer</h2>
-<a href="https://facebook.com/subhankar18r">
-    <img src="./images/facebookIcon.png" alt="facebook">
-</a>
+
 ###
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="gif">
 
